@@ -1,0 +1,16 @@
+{
+  "name": "td-sequential-screener",
+  "version": "1.0.0",
+  "description": "Command-line TD Sequential screener for crypto: finds setup 9, countdown 13 and perfected 9 on Binance, Bybit and OKX.",
+  "type": "module",
+  "bin": { "td-sequential-screener": "bin/td-sequential-screener.js" },
+  "files": ["bin", "src", "README.md", "CHANGELOG.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "dependencies": { "td-sequential-indicator": "^1.0.0" },
+  "keywords": ["td-sequential", "td9", "screener", "scanner", "crypto", "binance", "bybit", "okx", "cli", "countdown", "technical-analysis"],
+  "license": "MIT",
+  "homepage": "https://moolish.com/tools/td-sequential-counter/",
+  "repository": { "type": "git", "url": "git+https://github.com/moolish-com/td-sequential-screener.git" },
+  "bugs": { "url": "https://github.com/moolish-com/td-sequential-screener/issues" },
+  "engines": { "node": ">=20" }
+}
