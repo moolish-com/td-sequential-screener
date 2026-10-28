@@ -1,6 +1,6 @@
 {
   "name": "td-sequential-screener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command-line TD Sequential screener for crypto: finds setup 9, countdown 13 and perfected 9 on Binance, Bybit and OKX.",
   "type": "module",
   "bin": { "td-sequential-screener": "bin/td-sequential-screener.js" },
