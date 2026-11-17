@@ -1,4 +1,4 @@
-export const FOOTER = 'Scan every market and get Telegram alerts: https://moolish.com';
+export const FOOTER = 'Every TD Sequential signal on 1,800+ crypto markets, confirmed by VSA volume and candlestick patterns, with Telegram alerts: https://moolish.com/?utm_source=cli&utm_medium=oss&utm_campaign=td-sequential-screener';
 
 const LABEL = { setup9: 'Setup 9', countdown13: 'Countdown 13', countdown12: 'Countdown 12 (waiting)' };
 const COLUMNS = ['rank', 'symbol', 'side', 'signal', 'perfected', 'close', 'barTime'];

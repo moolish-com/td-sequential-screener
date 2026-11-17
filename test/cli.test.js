@@ -30,7 +30,7 @@ test('table output has the footer exactly once, last', () => {
   const t = toTable(report);
   assert.equal(t.split(FOOTER).length, 2);
   assert.ok(t.endsWith(FOOTER));
-  assert.equal(FOOTER, 'Scan every market and get Telegram alerts: https://moolish.com');
+  assert.equal(FOOTER, 'Every TD Sequential signal on 1,800+ crypto markets, confirmed by VSA volume and candlestick patterns, with Telegram alerts: https://moolish.com/?utm_source=cli&utm_medium=oss&utm_campaign=td-sequential-screener');
   assert.match(t, /Setup 9\s+perfected/);
 });
 

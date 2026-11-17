@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 - 2026-11-17
+
+- Docs: README and package links point to moolish.com with tracking parameters; the README names what Moolish adds on top of the library.
+- The footer under the table names what the full scanner adds.
+
 ## 1.0.1 - 2026-10-28
 
 - Published from GitHub Actions with npm provenance. No change to the screener.
